@@ -2,6 +2,8 @@
 
 This project showcases a **3D 360° rotation animation of an anime character**, built entirely using **HTML** and **CSS** — no JavaScript or external libraries involved.
 
+---
+
 ## 🌟 Project Overview
 
 The objective of this project was to create a visually appealing **360-degree rotating anime character** using only front-end technologies. The project focuses on:
@@ -11,9 +13,11 @@ The objective of this project was to create a visually appealing **360-degree ro
 - Perspective and rotation effects
 - Smooth and infinite looping
 
+---
+
 ## 🚀 Live Demo
 
-> [🔗 Click here to view the live demo](#) *(https://3d-animation-project.netlify.app/)*
+> [🔗 https://3d-animation-project.netlify.app/]
 
 ---
 
@@ -56,7 +60,6 @@ The objective of this project was to create a visually appealing **360-degree ro
 
 ## 🧑‍🎓 Developed By
 
-**[RITIK ANAND]**  
 Under the guidance of **Naresh i Technologies**
 
 ---
